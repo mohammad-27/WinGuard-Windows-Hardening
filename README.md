@@ -22,3 +22,6 @@ A report is saved to `C:\Users\<you>\WinGuard_reports`, showing PASS/FAIL for ea
 - BitLocker is audit only; enable it manually with `manage-bde -on C:`
 - UAC and LSA protection changes need a reboot
 - Turn off Defender Tamper Protection before Apply mode, or Defender fixes will fail
+
+## AI assistance
+Copilot was used to help me debug issues that came up.
